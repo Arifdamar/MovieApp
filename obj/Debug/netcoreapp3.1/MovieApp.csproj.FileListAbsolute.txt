@@ -35,3 +35,5 @@ C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\staticwebassets\MovieApp.
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.dll
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.pdb
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.CopyComplete
+C:\Users\Arif\Desktop\MovieApp\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Arif\Desktop\MovieApp\bin\Debug\netcoreapp3.1\package.json
