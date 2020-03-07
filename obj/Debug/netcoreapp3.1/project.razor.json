@@ -20526,6 +20526,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Home\\_movies.cshtml",
+      "TargetPath": "Views\\Home\\_movies.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Movie\\List.cshtml",
       "TargetPath": "Views\\Movie\\List.cshtml",
       "FileKind": "mvc"
@@ -20536,13 +20541,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Shared\\_navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Movie\\Create.cshtml",
       "TargetPath": "Views\\Movie\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Shared\\_footer.cshtml",
+      "TargetPath": "Views\\Shared\\_footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Home\\Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Shared\\_menu.cshtml",
+      "TargetPath": "Views\\Shared\\_menu.cshtml",
       "FileKind": "mvc"
     },
     {
