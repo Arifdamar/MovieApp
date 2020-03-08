@@ -9,7 +9,11 @@
             </div>
             <div class="col-md-9">
                 <div class="card-body">
-                    <h5 class="card-title">@movie.Name</h5>
+                    <a asp-action="Details" asp-controller="Home" asp-route-id="@movie.Id">
+                        <h5 class="card-title">
+                            @movie.Name
+                        </h5>
+                    </a>
                     <p class="card-text">
                         @movie.Description
                     </p>
