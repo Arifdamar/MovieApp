@@ -20561,6 +20561,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Home\\Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Arif\\Desktop\\MovieApp\\Views\\Shared\\_menu.cshtml",
       "TargetPath": "Views\\Shared\\_menu.cshtml",
       "FileKind": "mvc"

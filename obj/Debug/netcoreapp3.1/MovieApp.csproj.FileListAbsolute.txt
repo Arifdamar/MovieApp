@@ -41,3 +41,4 @@ C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_foote
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\_movies.cshtml.g.cs
 C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\Arif\Desktop\MovieApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
