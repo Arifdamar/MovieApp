@@ -16,7 +16,9 @@ namespace MovieApp.Data
                 new Category() { Id=3, Name="Thriller"},
                 new Category() { Id=4, Name="Fantasy"},
                 new Category() { Id=5, Name="Horror"},
-                new Category() { Id=6, Name="Mystery"}
+                new Category() { Id=6, Name="Mystery"},
+                new Category() { Id=7, Name="Sci-Fi"},
+                new Category() { Id=8, Name="Adventure"}
             };
         }
 
